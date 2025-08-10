@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Vítor Franke Goetz</h1>
 <h3 align="center">A passionate Mechatronics Engineering student from Brazil!</h3>
 
+- 🔭 I’m currently working on [Robotic Application](https://github.com/JvFg92/DH_Aplication)
+
 - 📫 How to reach me **joaovfg34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
