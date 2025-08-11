@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Robotic Application](https://github.com/JvFg92/DH_Aplication)
 
+- 👾 I like to share [Perceptron](https://github.com/JvFg92/Perceptron_Data_Classify)
+
 - 📫 How to reach me **joaovfg34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
