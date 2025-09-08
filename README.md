@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Vítor Franke Goetz</h1>
 <h3 align="center">A passionate Mechatronics Engineering student from Brazil!</h3>
 
-- 🔭 I’m currently working on [Robotic Application](https://github.com/JvFg92/DH_Aplication)
+- 🔭 I’m currently working on [Signal Encoding Simulator](https://github.com/JvFg92/Encoding_Methods)
 
 - 👾 I like to share [Perceptron](https://github.com/JvFg92/Perceptron_Data_Classify)
 
